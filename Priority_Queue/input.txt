@@ -1,0 +1,19 @@
+Insert 200
+Insert 10
+ExtractMax
+Insert 5
+Insert 500
+ExtractMax
+Insert 859720
+Insert 361200
+Insert 66940
+Insert 825743
+Insert 529454
+ExtractMax
+Insert 331948
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
